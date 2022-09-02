@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Augusto Galvao Carvalho
+- 👋 Hi there! I’m Augusto Galvao Carvalho
+_____________________________________________________________________________________________
+
 - 🌱 I’m currently learning APEX, SOQL, LWC, AURA, Visual Force, html, CSS e JS.
 - 📫 How to reach me augustocesargalvaocarvalho@gmail.com
 
