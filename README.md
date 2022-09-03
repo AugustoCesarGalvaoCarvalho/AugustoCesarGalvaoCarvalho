@@ -1,5 +1,4 @@
 <h1 align="center"> 👋 Hi there! I’m Augusto Galvao Carvalho</h1>
-____________________________________________________________________________________________________________________________________________________
 
 - 🌱 I’m currently learning APEX, SOQL, LWC, AURA, Visual Force, html, CSS e JS
 
