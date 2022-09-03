@@ -21,4 +21,10 @@
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <a href="https://trailblazer.me/id/acgcarvalho" target="_blank" rel="noreferrer"> <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/resources/campaign-assets/live-long-and-propser/images/logo.png" alt="Salesforce" width="50" height="30"/> <a/></p>
+  
+  
+  <div align="center">
+  <a href="https://github.com/AugustoCesarGalvaoCarvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoCesarGalvaoCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
