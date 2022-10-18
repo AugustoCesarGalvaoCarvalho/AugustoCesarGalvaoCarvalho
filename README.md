@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi there! I’m Augusto Galvao Carvalho</h1>
 
-- 🌱 I’m currently learning APEX, SOQL, LWC, AURA, Visual Force, html, CSS e JS
+- 🌱 I'm a developer in APEX, LWC, AURA, SOQL, HTML5, CSS3 e JS
 
 - 💻 Ask me about APEX, SOQL, JS, LWC, AURA and HTML
 
